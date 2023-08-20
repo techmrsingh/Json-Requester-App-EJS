@@ -41,8 +41,3 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ##  License
 MIT
-
-css
-Copy code
-
-You can copy this content into a `README.md` file in the root directory of your project. Adjust the placeholders (e.g., `your-username`) and other content as necessary to match your project's specifics.
