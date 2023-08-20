@@ -26,8 +26,8 @@ A simple web application that allows users to craft JSON requests and view respo
    npm install
 
 ## Running the Application:
-# node server.js
-Navigate to http://localhost:3000 in your web browser.
+1) Run node server.js
+2) Navigate to http://localhost:3000 in your web browser.
 
 ##  Dependencies
 Express: For serving the application.
